@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "AnteCf";
+  src: url("../assets/fonts/AnteCf-SemiBoldItalic.otf") format("opentype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("../assets/fonts/Montserrat-Variable.ttf") format("opentype");
+  font-style: normal;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.antecf {
+  font-family: "AnteCf", sans-serif;
+}
