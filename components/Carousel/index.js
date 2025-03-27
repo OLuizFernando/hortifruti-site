@@ -49,7 +49,7 @@ function Carousel() {
 
   return (
     <div className="relative w-full">
-      <div className="relative h-96 md:h-[700px] overflow-hidden rounded-lg">
+      <div className="relative h-96 md:h-[700px] overflow-hidden">
         {carouselData.map((item, index) => (
           <div
             key={index}
@@ -89,7 +89,7 @@ function Carousel() {
 
       <button
         onClick={prevSlide}
-        className="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none"
+        className="absolute top-0 left-0 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none"
       >
         <span className="inline-flex items-center justify-center w-7 h-7 md:w-10 md:h-10 rounded-full bg-white/30 group-hover:bg-white/50">
           <svg
@@ -110,7 +110,7 @@ function Carousel() {
       </button>
       <button
         onClick={nextSlide}
-        className="absolute top-0 right-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none"
+        className="absolute top-0 right-0 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none"
       >
         <span className="inline-flex items-center justify-center w-7 h-7 md:w-10 md:h-10 rounded-full bg-white/30 group-hover:bg-white/50">
           <svg
