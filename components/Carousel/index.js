@@ -3,8 +3,9 @@ import { useState, useEffect } from "react";
 const carouselData = [
   {
     src: "/frutas/macas.png",
-    title: "Frutas de Verdade",
-    subtitle: "Direto da fonte, para uma vida mais saudável",
+    title: "Importar Qualidade é o que Importa",
+    subtitle:
+      "Frutas selecionadas de vários países, com alto padrão de qualidade",
   },
   {
     src: "/frutas/pessegos_e_ameixas_caixa.png",
@@ -19,7 +20,7 @@ const carouselData = [
   {
     src: "/frutas/pessegos_e_ameixas_prato.png",
     title: "Tradição e Confiança no Que Fazemos",
-    subtitle: "Garantindo sabor e qualidade em cada entrega",
+    subtitle: "Garantindo sabor e qualidade em cada produto",
   },
 ];
 
@@ -41,7 +42,6 @@ function Carousel() {
     setCurrentIndex(index);
   };
 
-  // Auto slide a cada 5 segundos
   useEffect(() => {
     const interval = setInterval(nextSlide, 5000);
     return () => clearInterval(interval); // Limpa o intervalo ao desmontar

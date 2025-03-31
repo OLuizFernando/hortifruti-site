@@ -31,16 +31,19 @@ function Footer() {
                   Contato
                 </h2>
                 <ul className="text-gray-500 font-medium">
-                  <li className="flex flex-col mb-4">
-                    <a href="tel:1138311521" target="_blank">
-                      Telefone 1:{" "}
-                      <span className="hover:underline">(11) 3831-1521</span>
+                  <li className="mb-4">
+                    <a href="https://wa.me/5511966433031" target="_blank">
+                      Telefone:{" "}
+                      <span className="hover:underline">(11) 9 6643-3031</span>
                     </a>
                   </li>
-                  <li className="flex flex-col mb-4">
-                    <a href="tel:1136437930" target="_blank">
-                      Telefone 2:{" "}
-                      <span className="hover:underline">(11) 3643-7930</span>
+                  <li className="mb-4">
+                    <a
+                      href="https://www.facebook.com/mensageira.frutas"
+                      target="_blank"
+                    >
+                      Facebook:{" "}
+                      <span className="hover:underline">Mensageira Frutas</span>
                     </a>
                   </li>
                   <li className="mb-4">
@@ -53,14 +56,10 @@ function Footer() {
                     </a>
                   </li>
                   <li>
-                    <a
-                      className="text-start md:text-end"
-                      href="mailto:mensageirafrutas@ig.com.br"
-                      target="_blank"
-                    >
+                    <a href="mailto:mensageirasp@gmail.com" target="_blank">
                       Email:{" "}
                       <span className="hover:underline">
-                        mensageirafrutas@ig.com.br
+                        mensageirasp@gmail.com
                       </span>
                     </a>
                   </li>

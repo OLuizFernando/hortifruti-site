@@ -27,7 +27,7 @@ function Navbar() {
           <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
             <a
               target="_blank"
-              href="https://www.instagram.com/mensageirafrutas/"
+              href="https://wa.me/5511966433031"
               className="text-white bg-green-700 hover:bg-green-800 focus:ring-4 focus:outline-none focus:ring-green-300 font-medium rounded-lg text-sm px-4 py-2 text-center"
             >
               Saiba mais
