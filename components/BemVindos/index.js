@@ -8,7 +8,7 @@ function BemVindos() {
     {
       iconSrc: "icones/qualidade.png",
       title: "Qualidade",
-      text: "Nos comprometemos manter boas relações com produtores mundiais e selecionar suas melhores ofertas.",
+      text: "Nos comprometemos em manter boas relações com produtores mundiais e selecionar suas melhores ofertas.",
     },
     {
       iconSrc: "icones/confianca.png",
