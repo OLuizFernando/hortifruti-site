@@ -25,7 +25,7 @@ function BemVindos() {
         </h2>
         <div className="flex flex-col md:flex-row text-center px-10">
           {itemsData.map((item) => (
-            <div className="flex flex-col justify-center items-center px-7 mb-15 md:mb-auto">
+            <div className="flex flex-col justify-center items-center px-7 mb-15 md:mb-auto flex-1">
               <img width="95" className="mb-3" src={item.iconSrc} />
               <h3 className="text-3xl font-semibold mb-4">{item.title}</h3>
               <p>{item.text}</p>
