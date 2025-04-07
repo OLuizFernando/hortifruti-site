@@ -1,3 +1,5 @@
+import Head from "next/head";
+
 import Navbar from "@/components/Navbar";
 import Carousel from "@/components/Carousel";
 import Footer from "@/components/Footer";
@@ -5,9 +7,12 @@ import BemVindos from "@/components/BemVindos";
 import Produtos from "@/components/Produtos";
 import SobreNos from "@/components/SobreNos";
 
-function Home() {
+function Inicio() {
   return (
     <>
+      <Head>
+        <title>Início - Mensageira Frutas</title>
+      </Head>
       <Navbar />
       <Carousel />
       <BemVindos />
@@ -18,4 +23,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Inicio;
