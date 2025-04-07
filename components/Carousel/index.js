@@ -2,23 +2,23 @@ import { useState, useEffect } from "react";
 
 const carouselData = [
   {
-    src: "/frutas/macas.png",
+    src: "/carousel/macas.png",
     title: "Importar Qualidade é o que Importa",
     subtitle:
       "Frutas selecionadas de vários países, com alto padrão de qualidade",
   },
   {
-    src: "/frutas/pessegos_e_ameixas_caixa.png",
+    src: "/carousel/pessegos_e_ameixas_caixa.png",
     title: "Sabor e Saúde",
     subtitle: "Frutas selecionadas com carinho para você",
   },
   {
-    src: "/frutas/pessegos.png",
+    src: "/carousel/pessegos.png",
     title: "O Melhor da Natureza",
     subtitle: "Sabor, frescor e qualidade em cada escolha",
   },
   {
-    src: "/frutas/pessegos_e_ameixas_prato.png",
+    src: "/carousel/pessegos_e_ameixas_prato.png",
     title: "Tradição e Confiança no Que Fazemos",
     subtitle: "Garantindo sabor e qualidade em cada produto",
   },
