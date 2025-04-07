@@ -14,7 +14,7 @@ function SobreNos() {
         </p>
         <div className="flex flex-col lg:flex-row justify-center items-center">
           <div className="flex flex-col items-center lg:items-end w-auto lg:w-md me-auto md:me-10 mb-15 lg:mb-0">
-            <h4 className="text-3xl font-bold mb-5">Sucesso</h4>
+            <h4 className="text-3xl md:text-4xl font-bold mb-5">Sucesso</h4>
             <p className="mb-5 text-center lg:text-end">
               Lorem ipsum dolor sit amet. rem veniam cupiditate est dignissimos
               enim et delectus libero aut incidunt repudiandae et quis
