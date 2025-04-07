@@ -12,7 +12,7 @@ function Produtos() {
       <StaticBanner
         title="Produtos"
         subtitle="Veja mais sobre nossas frutas"
-        src="carousel/pessegos_e_ameixas_caixa.png"
+        src="/banners/pessegos_e_ameixas_caixa.png"
       />
       <div className="bg-gradient-to-br from-neutral-50 to-neutral-400 flex flex-col justify-center items-center py-20 md:py-25">
         <h2 className="text-4xl md:text-5xl font-bold mb-15 md:mb-20 text-center">
