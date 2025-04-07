@@ -3,22 +3,22 @@ function NossasFrutas() {
     {
       imgSrc: "frutas/maca_red.png",
       name: "Maçã Red",
-      buttonHref: "/produtos/maca_red",
+      buttonHref: "/produtos/maca-red",
     },
     {
       imgSrc: "frutas/pera_williams.png",
       name: "Pera Williams",
-      buttonHref: "/produtos/pera_williams",
+      buttonHref: "/produtos/pera-williams",
     },
     {
       imgSrc: "frutas/maca_fuji.png",
       name: "Maçã Fuji",
-      buttonHref: "/produtos/maca_fuji",
+      buttonHref: "/produtos/maca-fuji",
     },
     {
       imgSrc: "frutas/maca_gala.png",
       name: "Maçã Gala",
-      buttonHref: "/produtos/maca_gala",
+      buttonHref: "/produtos/maca-gala",
     },
   ];
 
