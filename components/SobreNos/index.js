@@ -13,9 +13,9 @@ function SobreNos() {
           totam molestias 33 dolores pariatur.
         </p>
         <div className="flex flex-col lg:flex-row justify-center items-center">
-          <div className="flex flex-col items-center lg:items-start w-auto lg:w-xl mx-10 mb-15 lg:mb-0">
+          <div className="flex flex-col items-center lg:items-end w-auto lg:w-md me-auto md:me-10 mb-15 lg:mb-0">
             <h4 className="text-3xl font-bold mb-5">Sucesso</h4>
-            <p className="mb-5 text-center lg:text-start">
+            <p className="mb-5 text-center lg:text-end">
               Lorem ipsum dolor sit amet. rem veniam cupiditate est dignissimos
               enim et delectus libero aut incidunt repudiandae et quis
               consequuntur qui enim galisum.
@@ -28,7 +28,7 @@ function SobreNos() {
             </a>
           </div>
           <img
-            className="w-[300px] sm:w-[400px] md:w-[500px] lg:w-[400px] rounded-md shadow-2xl mx-10 ring-5 ring-red-700"
+            className="w-[300px] sm:w-[400px] md:w-[500px] lg:w-[400px] rounded-md shadow-2xl ring-5 ring-red-700"
             src="outros/rodrigo.jpg"
           />
         </div>
