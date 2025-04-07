@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "imgSrc": "frutas/maca_red.png",
+    "name": "Maçã Red",
+    "buttonHref": "/produtos/maca-red"
+  },
+  {
+    "id": 1,
+    "imgSrc": "frutas/pera_williams.png",
+    "name": "Pera Williams",
+    "buttonHref": "/produtos/pera-williams"
+  },
+  {
+    "id": 2,
+    "imgSrc": "frutas/maca_fuji.png",
+    "name": "Maçã Fuji",
+    "buttonHref": "/produtos/maca-fuji"
+  },
+  {
+    "id": 3,
+    "imgSrc": "frutas/maca_gala.png",
+    "name": "Maçã Gala",
+    "buttonHref": "/produtos/maca-gala"
+  },
+  {
+    "id": 4,
+    "imgSrc": "frutas/maca_red.png",
+    "name": "Maçã Red",
+    "buttonHref": "/produtos/maca-red"
+  },
+  {
+    "id": 5,
+    "imgSrc": "frutas/pera_williams.png",
+    "name": "Pera Williams",
+    "buttonHref": "/produtos/pera-williams"
+  },
+  {
+    "id": 6,
+    "imgSrc": "frutas/maca_fuji.png",
+    "name": "Maçã Fuji",
+    "buttonHref": "/produtos/maca-fuji"
+  },
+  {
+    "id": 7,
+    "imgSrc": "frutas/maca_gala.png",
+    "name": "Maçã Gala",
+    "buttonHref": "/produtos/maca-gala"
+  }
+]
