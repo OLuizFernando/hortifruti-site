@@ -1,3 +1,5 @@
+import ProductCard from "../ProductCard";
+
 function Produtos() {
   const productsInfo = [
     {
@@ -34,19 +36,12 @@ function Produtos() {
         </h2>
         <div className="flex flex-col md:flex-row mb-10 md:mb-20 px-7 md:px-3 lg:px-10 xl:px-20">
           {productsInfo.map((product) => (
-            <div
+            <ProductCard
               key={product.id}
-              className="flex flex-col items-center justify-center pb-10 mb-10 mx-auto md:mb-auto md:mx-3 lg:mx-5 px-5 bg-white rounded-md shadow-2xl"
-            >
-              <img src={product.imgSrc} className="mb-5 rounded-md" />
-              <h3 className="text-2xl mb-7 text-center">{product.name}</h3>
-              <a
-                href={product.buttonHref}
-                className=" text-center text-white bg-red-700 hover:bg-red-800 focus:ring-4 focus:outline-none focus:ring-red-300 rounded-lg px-4 py-2"
-              >
-                Saiba mais
-              </a>
-            </div>
+              name={product.name}
+              imgSrc={product.imgSrc}
+              buttonHref={product.buttonHref}
+            />
           ))}
         </div>
         <a
