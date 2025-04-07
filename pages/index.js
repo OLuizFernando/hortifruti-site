@@ -10,9 +10,6 @@ function Home() {
       <Navbar />
       <Carousel />
       <BemVindos />
-      <div className="w-full flex justify-center bg-neutral-300">
-        <div className="border w-50"></div>
-      </div>
       <Produtos />
       <Footer />
     </>
