@@ -2,10 +2,10 @@ import { usePathname } from "next/navigation";
 
 function Navbar() {
   const navItems = [
-    { text: "Início", href: "/" },
-    { text: "Sobre", href: "/sobre" },
-    { text: "Produtos", href: "/produtos" },
-    { text: "Contato", href: "/contato" },
+    { id: 0, text: "Início", href: "/" },
+    { id: 1, text: "Sobre", href: "/sobre" },
+    { id: 2, text: "Produtos", href: "/produtos" },
+    { id: 3, text: "Contato", href: "/contato" },
   ];
 
   const pathname = usePathname();
@@ -49,9 +49,9 @@ function Navbar() {
               >
                 <path
                   stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
                   d="M1 1h15M1 7h15M1 13h15"
                 />
               </svg>
@@ -63,7 +63,7 @@ function Navbar() {
           >
             <ul className="flex flex-col text-lg p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg bg-gray-50 md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 md:bg-transparent">
               {navItems.map((item) => (
-                <li>
+                <li key={item.id}>
                   <a
                     href={item.href}
                     className={`
