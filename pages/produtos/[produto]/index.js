@@ -1,11 +1,12 @@
 "use client";
 
+import { useParams } from "next/navigation";
+import Head from "next/head";
+
 import Navbar from "@/components/Navbar";
 import StaticBanner from "@/components/StaticBanner";
 import Footer from "@/components/Footer";
 import products from "../products.json";
-
-import { useParams } from "next/navigation";
 
 export default function ProdutoPage() {
   const params = useParams();
@@ -13,6 +14,9 @@ export default function ProdutoPage() {
   if (!params)
     return (
       <>
+        <Head>
+          <title>Carregando - Mensageira Frutas</title>
+        </Head>
         <Navbar />
         <div className="flex justify-center items-center h-dvh">
           <span className="text-4xl">Carregando...</span>
@@ -26,6 +30,9 @@ export default function ProdutoPage() {
   if (!product)
     return (
       <>
+        <Head>
+          <title>Produto não encontrado - Mensageira Frutas</title>
+        </Head>
         <Navbar />
         <div className="flex justify-center items-center h-dvh">
           <span className="text-4xl">Produto não encontrado</span>
@@ -36,6 +43,9 @@ export default function ProdutoPage() {
 
   return (
     <>
+      <Head>
+        <title>{product.name} - Mensageira Frutas</title>
+      </Head>
       <Navbar />
       <StaticBanner
         src={product.bannerSrc}

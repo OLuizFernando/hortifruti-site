@@ -1,3 +1,5 @@
+import Head from "next/head";
+
 import Navbar from "@/components/Navbar";
 import StaticBanner from "@/components/StaticBanner";
 import ProductCard from "@/components/ProductCard";
@@ -8,6 +10,9 @@ import products from "./products.json";
 function Produtos() {
   return (
     <>
+      <Head>
+        <title>Produtos - Mensageira Frutas</title>
+      </Head>
       <Navbar />
       <StaticBanner
         title="Produtos"
