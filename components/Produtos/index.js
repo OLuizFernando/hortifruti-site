@@ -3,28 +3,28 @@ import ProductCard from "../ProductCard";
 function Produtos() {
   const productsInfo = [
     {
-      id: 0,
-      imgSrc: "frutas/maca_red.png",
-      name: "Maçã Red",
-      buttonHref: "/produtos/maca-red",
-    },
-    {
-      id: 1,
-      imgSrc: "frutas/pera_williams.png",
-      name: "Pera Williams",
-      buttonHref: "/produtos/pera-williams",
-    },
-    {
       id: 2,
       imgSrc: "frutas/maca_fuji.png",
       name: "Maçã Fuji",
-      buttonHref: "/produtos/maca-fuji",
+      slug: "maca-fuji",
     },
     {
       id: 3,
       imgSrc: "frutas/maca_gala.png",
       name: "Maçã Gala",
-      buttonHref: "/produtos/maca-gala",
+      slug: "maca-gala",
+    },
+    {
+      id: 0,
+      imgSrc: "frutas/maca_red.png",
+      name: "Maçã Red",
+      slug: "maca-red",
+    },
+    {
+      id: 1,
+      imgSrc: "frutas/pera_williams.png",
+      name: "Pera Williams",
+      slug: "pera-williams",
     },
   ];
 
@@ -40,7 +40,7 @@ function Produtos() {
               key={product.id}
               name={product.name}
               imgSrc={product.imgSrc}
-              buttonHref={product.buttonHref}
+              slug={product.slug}
             />
           ))}
         </div>

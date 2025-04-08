@@ -25,7 +25,7 @@ function Produtos() {
                 key={product.id}
                 name={product.name}
                 imgSrc={product.imgSrc}
-                buttonHref={product.buttonHref}
+                slug={product.slug}
               />
             </div>
           ))}
