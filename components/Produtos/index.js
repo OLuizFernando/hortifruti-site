@@ -3,25 +3,25 @@ import ProductCard from "../ProductCard";
 function Produtos() {
   const productsInfo = [
     {
-      id: 2,
+      id: 0,
       imgSrc: "frutas/maca_fuji.png",
       name: "Maçã Fuji",
       slug: "maca-fuji",
     },
     {
-      id: 3,
+      id: 1,
       imgSrc: "frutas/maca_gala.png",
       name: "Maçã Gala",
       slug: "maca-gala",
     },
     {
-      id: 0,
+      id: 2,
       imgSrc: "frutas/maca_red.png",
       name: "Maçã Red",
       slug: "maca-red",
     },
     {
-      id: 1,
+      id: 3,
       imgSrc: "frutas/pera_williams.png",
       name: "Pera Williams",
       slug: "pera-williams",
