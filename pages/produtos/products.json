@@ -2,85 +2,117 @@
   {
     "id": 0,
     "imgSrc": "/frutas/maca_fuji.png",
+    "bannerSrc": "/banners/macas.png",
     "name": "Maçã Fuji",
     "slug": "maca-fuji",
-    "text": "Conhecida por seu equilíbrio entre doçura e acidez, a Maçã Fuji é crocante e refrescante. Uma excelente opção para lanches saudáveis, receitas ou até mesmo para sucos naturais."
+    "text": "Conhecida por seu equilíbrio entre doçura e acidez, a Maçã Fuji é crocante e refrescante. Uma excelente opção para lanches saudáveis, receitas ou até mesmo para sucos naturais.",
+    "paises": ["chile", "italia"]
   },
   {
     "id": 1,
     "imgSrc": "/frutas/maca_gala.png",
+    "bannerSrc": "/banners/macas.png",
     "name": "Maçã Gala",
     "slug": "maca-gala",
-    "text": "Delicada e aromática, a Maçã Gala possui polpa macia e sabor suave. Muito apreciada por crianças e adultos, é uma das variedades mais consumidas no mundo – e você encontra o melhor padrão aqui."
+    "text": "Delicada e aromática, a Maçã Gala possui polpa macia e sabor suave. Muito apreciada por crianças e adultos, é uma das variedades mais consumidas no mundo – e você encontra o melhor padrão aqui.",
+    "paises": ["chile", "italia"]
   },
   {
     "id": 2,
     "imgSrc": "/frutas/maca_red.png",
+    "bannerSrc": "/banners/macas.png",
     "name": "Maçã Red",
     "slug": "maca-red",
-    "text": "Com sua cor intensa e sabor levemente adocicado, a Maçã Red é perfeita para consumo in natura e decoração de pratos. Importada com rigoroso controle de qualidade, essa variedade é sinônimo de beleza e sabor."
+    "text": "Com sua cor intensa e sabor levemente adocicado, a Maçã Red é perfeita para consumo in natura e decoração de pratos. Importada com rigoroso controle de qualidade, essa variedade é sinônimo de beleza e sabor.",
+    "paises": ["argentina", "brasil", "chile", "espanha", "italia", "portugal"]
   },
   {
     "id": 3,
     "imgSrc": "/frutas/pera_williams.png",
+    "bannerSrc": "/banners/peras_amarelas.png",
     "name": "Pera Williams",
     "slug": "pera-williams",
-    "text": "Suculenta, aromática e com textura macia, a Pera Williams é uma das preferidas do mercado. Ideal para consumo direto ou uso em sobremesas sofisticadas, traz frescor e sofisticação à sua mesa."
+    "text": "Suculenta, aromática e com textura macia, a Pera Williams é uma das preferidas do mercado. Ideal para consumo direto ou uso em sobremesas sofisticadas, traz frescor e sofisticação à sua mesa.",
+    "paises": [
+      "argentina",
+      "brasil",
+      "chile",
+      "espanha",
+      "estados-unidos",
+      "italia",
+      "portugal"
+    ]
   },
   {
     "id": 4,
     "imgSrc": "/outros/exemplo.png",
+    "bannerSrc": "/outros/exemplo.png",
     "name": "Exemplo",
     "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+    "paises": []
   },
   {
     "id": 5,
     "imgSrc": "/outros/exemplo.png",
+    "bannerSrc": "/outros/exemplo.png",
     "name": "Exemplo",
     "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+    "paises": []
   },
   {
     "id": 6,
     "imgSrc": "/outros/exemplo.png",
+    "bannerSrc": "/outros/exemplo.png",
     "name": "Exemplo",
     "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+    "paises": []
   },
   {
     "id": 7,
     "imgSrc": "/outros/exemplo.png",
+    "bannerSrc": "/outros/exemplo.png",
     "name": "Exemplo",
     "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+    "paises": []
   },
   {
     "id": 8,
     "imgSrc": "/outros/exemplo.png",
+    "bannerSrc": "/outros/exemplo.png",
     "name": "Exemplo",
     "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+    "paises": []
   },
   {
     "id": 9,
     "imgSrc": "/outros/exemplo.png",
+    "bannerSrc": "/outros/exemplo.png",
     "name": "Exemplo",
     "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+    "paises": []
   },
   {
     "id": 10,
     "imgSrc": "/outros/exemplo.png",
+    "bannerSrc": "/outros/exemplo.png",
     "name": "Exemplo",
     "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+    "paises": []
   },
   {
     "id": 11,
     "imgSrc": "/outros/exemplo.png",
+    "bannerSrc": "/outros/exemplo.png",
     "name": "Exemplo",
     "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+    "paises": []
   }
 ]
