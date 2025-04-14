@@ -1,7 +1,7 @@
 function SobreNos() {
   return (
     <>
-      <div className="bg-gradient-to-bl from-neutral-100 to-neutral-300 flex flex-col justify-center items-center py-20 md:py-25 px-7 md:px-30">
+      <div id="sobre" className="bg-gradient-to-bl from-neutral-100 to-neutral-300 flex flex-col justify-center items-center py-20 md:py-25 px-7 md:px-30">
         <h2 className="text-4xl md:text-5xl font-bold mb-15 md:mb-20 text-center">
           Sobre Nós
         </h2>

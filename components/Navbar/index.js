@@ -3,9 +3,9 @@ import { usePathname } from "next/navigation";
 function Navbar() {
   const navItems = [
     { id: 0, text: "Início", href: "/" },
-    { id: 1, text: "Sobre", href: "/sobre" },
+    { id: 1, text: "Sobre", href: "/#sobre" },
     { id: 2, text: "Produtos", href: "/produtos" },
-    { id: 3, text: "Contato", href: "/contato" },
+    { id: 3, text: "Contato", href: "#contato" },
   ];
 
   const pathname = usePathname();

@@ -1,8 +1,8 @@
 function Footer() {
   return (
     <>
-      <footer className="bg-white">
-        <div className=" flex items-center mx-auto w-full max-w-screen-xl px-4 py-5">
+      <footer id="contato" className="bg-white">
+        <div className="flex items-center mx-auto w-full max-w-screen-xl px-4 py-5">
           <span className="me-auto md:me-10 text-2xl text-green-700 font-bold">
             ENTRE EM CONTATO CONOSCO!
           </span>
