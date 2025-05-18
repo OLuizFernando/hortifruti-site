@@ -2,6 +2,11 @@ import { useState, useEffect } from "react";
 
 const carouselData = [
   {
+    src: "/banners/peras_amarelas.png",
+    title: "A Qualidade que Você Merece",
+    subtitle: "Frutas frescas e selecionadas para você",
+  },
+  {
     src: "/banners/macas.png",
     title: "Importar Qualidade é o que Importa",
     subtitle:
