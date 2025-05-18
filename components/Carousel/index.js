@@ -7,25 +7,25 @@ const carouselData = [
     subtitle: "Frutas frescas e selecionadas para você",
   },
   {
-    src: "/banners/macas.png",
+    src: "/banners/macas_verdes.png",
     title: "Importar Qualidade é o que Importa",
     subtitle:
       "Frutas selecionadas de vários países, com alto padrão de qualidade",
   },
   {
-    src: "/banners/pessegos_e_ameixas_caixa.png",
-    title: "Sabor e Saúde",
-    subtitle: "Frutas selecionadas com carinho para você",
+    src: "/banners/pessegos_e_ameixas_prato.png",
+    title: "Tradição e Confiança no Que Fazemos",
+    subtitle: "Garantindo sabor e qualidade em cada produto",
   },
   {
-    src: "/banners/pessegos.png",
+    src: "/banners/peras_verdes.png",
     title: "O Melhor da Natureza",
     subtitle: "Sabor, frescor e qualidade em cada escolha",
   },
   {
-    src: "/banners/pessegos_e_ameixas_prato.png",
-    title: "Tradição e Confiança no Que Fazemos",
-    subtitle: "Garantindo sabor e qualidade em cada produto",
+    src: "/banners/pessegos_e_ameixas_caixa.png",
+    title: "Sabor e Saúde",
+    subtitle: "Frutas selecionadas com carinho para você",
   },
 ];
 
