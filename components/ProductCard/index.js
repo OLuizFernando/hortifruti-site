@@ -6,7 +6,7 @@ function ProductCard(props) {
         <h3 className="text-2xl mb-7 text-center">{props.name}</h3>
         <a
           href={`/produtos/${props.slug}`}
-          className=" text-center text-white bg-red-700 hover:bg-red-800 focus:ring-4 focus:outline-none focus:ring-red-300 rounded-lg px-4 py-2"
+          className="text-center text-white bg-[#26530e] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530e]/30 text-lg font-medium rounded-lg px-4 py-2"
         >
           Saiba mais
         </a>

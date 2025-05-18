@@ -30,7 +30,7 @@ function Produtos() {
 
   return (
     <>
-      <div className="bg-gradient-to-tl from-red-500 to-red-900 flex flex-col justify-center items-center py-20 md:py-25">
+      <div className="bg-gradient-to-tl from-[#26530e] to-[#357513] flex flex-col justify-center items-center py-20 md:py-25">
         <h2 className="text-4xl text-white md:text-5xl font-bold mb-15 md:mb-20 text-center">
           Principais Frutas
         </h2>
@@ -46,7 +46,7 @@ function Produtos() {
         </div>
         <a
           href="/produtos"
-          className="text-red-700 bg-white hover:bg-red-100 focus:ring-4 focus:outline-none focus:ring-red-300 rounded-lg px-6 py-4 text-xl shadow-2xl"
+          className="text-[#26530e] bg-white hover:bg-neutral-300 focus:ring-4 focus:outline-none focus:ring-white/40 rounded-lg px-6 py-4 text-xl shadow-2xl font-medium text-center transition-all duration-200 ease-in-out"
         >
           Ver mais produtos
         </a>
