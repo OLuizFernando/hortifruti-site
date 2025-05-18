@@ -1,7 +1,10 @@
 function SobreNos() {
   return (
     <>
-      <div id="sobre" className="bg-gradient-to-bl from-neutral-100 to-neutral-300 flex flex-col justify-center items-center py-20 md:py-25 px-7 md:px-30">
+      <div
+        id="sobre"
+        className="bg-gradient-to-bl from-neutral-100 to-neutral-300 flex flex-col justify-center items-center py-20 md:py-25 px-7 md:px-30"
+      >
         <h2 className="text-4xl md:text-5xl font-bold mb-15 md:mb-20 text-center">
           Sobre Nós
         </h2>
@@ -22,13 +25,13 @@ function SobreNos() {
             </p>
             <a
               href="sobre-nos"
-              className="text-center text-white bg-red-700 hover:bg-red-800 focus:ring-4 focus:outline-none focus:ring-red-300 rounded-lg shadow-2xl px-4 py-2"
+              className="text-center text-white bg-[#26530e] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530e]/40 rounded-lg shadow-2xl text-lg font-medium px-4 py-2"
             >
               Saiba mais
             </a>
           </div>
           <img
-            className="w-[300px] sm:w-[400px] md:w-[500px] lg:w-[400px] rounded-md shadow-2xl ring-5 ring-red-700"
+            className="w-[300px] sm:w-[400px] md:w-[500px] lg:w-[400px] rounded-md shadow-2xl ring-5 ring-[#26530e]"
             src="outros/rodrigo.jpg"
           />
         </div>
