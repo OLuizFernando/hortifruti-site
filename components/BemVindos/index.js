@@ -24,7 +24,7 @@ function BemVindos() {
     <>
       <div className="flex flex-col justify-center items-center py-20 md:py-25 bg-gradient-to-br from-neutral-100 to-neutral-300">
         <h2 className="text-4xl md:text-5xl font-bold mb-15 md:mb-20 text-center">
-          Bem-Vindo à Mensageira
+          Bem-Vindo à Marfruti
         </h2>
         <div className="flex flex-col md:flex-row text-center px-10">
           {itemsData.map((item) => (
