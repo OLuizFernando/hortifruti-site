@@ -22,7 +22,7 @@ function Navbar() {
             />
             <img
               src="/logos/logo_write.png"
-              className="h-7 sm:h-9"
+              className="h-6 sm:h-9 hidden sm:block"
               alt="Logo Marfruti"
             />
           </a>
@@ -30,7 +30,7 @@ function Navbar() {
             <a
               target="_blank"
               href="https://wa.me/5511966433031"
-              className="text-white bg-[#26530E] hover:bg-[#183409] flex items-center justify-center focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 font-medium rounded-lg px-4 py-2 md:text-lg transition-all duration-200 ease-in-out"
+              className="text-white bg-[#26530E] hover:bg-[#183409] flex items-center justify-center focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 font-medium rounded-lg px-3 py-0 sm:px-4 sm:py-2 text-sm md:text-lg transition-all duration-200 ease-in-out"
             >
               Saiba mais
             </a>
