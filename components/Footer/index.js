@@ -10,7 +10,7 @@ function Footer() {
             <a
               target="_blank"
               href="https://wa.me/5511966433031"
-              className="bg-[#26530E] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 rounded-lg px-4 py-2 mb-3 md:mb-auto me-auto md:me-7"
+              className="bg-[#26530E] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 rounded-lg px-4 py-2 mb-3 md:mb-auto me-auto md:me-7 transition-all duration-200 ease-in-out"
             >
               <img
                 width="25"
@@ -20,7 +20,7 @@ function Footer() {
             <a
               target="_blank"
               href="https://www.instagram.com/mensageirafrutas/"
-              className="bg-[#26530E] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 rounded-lg px-4 py-2 mb-3 md:mb-auto me-auto md:me-7"
+              className="bg-[#26530E] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 rounded-lg px-4 py-2 mb-3 md:mb-auto me-auto md:me-7 transition-all duration-200 ease-in-out"
             >
               <img
                 width="25"
@@ -30,7 +30,7 @@ function Footer() {
             <a
               target="_blank"
               href="https://www.facebook.com/mensageira.frutas"
-              className=" bg-[#26530E] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 rounded-lg px-4 py-2"
+              className=" bg-[#26530E] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 rounded-lg px-4 py-2 transition-all duration-200 ease-in-out"
             >
               <img
                 width="25"

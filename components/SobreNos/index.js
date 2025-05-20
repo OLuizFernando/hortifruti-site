@@ -25,7 +25,7 @@ function SobreNos() {
             </p>
             <a
               href="sobre-nos"
-              className="text-center text-white bg-[#26530e] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530e]/40 rounded-lg shadow-2xl text-lg font-medium px-4 py-2"
+              className="text-center text-white bg-[#26530e] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530e]/40 rounded-lg shadow-2xl text-lg font-medium px-4 py-2 transition-all duration-200 ease-in-out"
             >
               Saiba mais
             </a>

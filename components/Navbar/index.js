@@ -30,14 +30,14 @@ function Navbar() {
             <a
               target="_blank"
               href="https://wa.me/5511966433031"
-              className="text-white bg-[#26530E] hover:bg-[#183409] flex items-center justify-center focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 font-medium rounded-lg px-4 py-2 md:text-lg"
+              className="text-white bg-[#26530E] hover:bg-[#183409] flex items-center justify-center focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 font-medium rounded-lg px-4 py-2 md:text-lg transition-all duration-200 ease-in-out"
             >
               Saiba mais
             </a>
             <button
               data-collapse-toggle="navbar-sticky"
               type="button"
-              className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100/50 focus:outline-none focus:ring-2 focus:ring-gray-500/50 "
+              className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100/50 focus:outline-none focus:ring-2 focus:ring-gray-500/50 transition-all duration-200 ease-in-out"
               aria-controls="navbar-sticky"
               aria-expanded="false"
             >
@@ -69,7 +69,7 @@ function Navbar() {
                   <a
                     href={item.href}
                     className={`
-                      block py-2 px-3 rounded-sm lg:p-0 text-xl
+                      block py-2 px-3 rounded-sm lg:p-0 text-xl transition-all duration-200 ease-in-out
                       ${pathname === item.href ? "bg-[#26530E] text-white lg:text-[#26530E] lg:bg-transparent" : "text-black hover:text-[#26530E]"}
                     `}
                     aria-current="page"
