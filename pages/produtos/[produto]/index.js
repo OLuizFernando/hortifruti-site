@@ -73,7 +73,7 @@ export default function ProdutoPage() {
             <a
               target="_blank"
               href={`https://wa.me/5511966433031?text=Olá, vim pelo site! Tenho interesse na ${product.name}`}
-              className="text-center text-lg text-white bg-red-700 hover:bg-red-800 focus:ring-4 focus:outline-none focus:ring-red-300 rounded-lg px-4 py-2 mb-10 lg:mb-0"
+              className="text-center text-lg text-white bg-[#26530e] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-red-300 rounded-lg px-4 py-2 mb-10 lg:mb-0 transition-all duration-200 ease-in-out"
             >
               Tenho interesse
             </a>
