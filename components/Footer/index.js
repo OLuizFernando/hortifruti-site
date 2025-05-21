@@ -79,9 +79,9 @@ function Footer() {
                 </h2>
                 <ul className="text-gray-500 font-medium">
                   <li className="mb-4">
-                    <a href="https://wa.me/555196384760" target="_blank">
+                    <a href="https://wa.me/5511966433031" target="_blank">
                       Telefone:{" "}
-                      <span className="hover:underline">(51) 9 9638-4760</span>
+                      <span className="hover:underline">(11) 9 6643-3031</span>
                     </a>
                   </li>
                   <li className="mb-4">
