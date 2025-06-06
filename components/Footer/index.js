@@ -86,7 +86,7 @@ function Footer() {
                   </li>
                   <li className="mb-4">
                     <a
-                      href="https://www.facebook.com/marfruti.frutas" // MUDAR LINK E LABEL
+                      href="#" // MUDAR LINK E LABEL
                       target="_blank"
                     >
                       Facebook:{" "}
@@ -95,7 +95,7 @@ function Footer() {
                   </li>
                   <li className="mb-4">
                     <a
-                      href="https://www.instagram.com/marfrutifrutas/" // MUDAR LINK E LABEL
+                      href="#" // MUDAR LINK E LABEL
                       target="_blank"
                     >
                       Instagram:{" "}
