@@ -11,7 +11,7 @@ function Inicio() {
   return (
     <>
       <Head>
-        <title>Início - Mensageira Frutas</title>
+        <title>Início - Marfruti</title>
       </Head>
       <Navbar />
       <Carousel />

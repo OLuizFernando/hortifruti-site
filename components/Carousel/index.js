@@ -3,6 +3,11 @@ import { useState, useEffect } from "react";
 const carouselData = [
   {
     src: "/slides/peras_amarelas.png",
+    title: "Marfruti",
+    subtitle: "Qualidade que inspira, frescor que conecta.",
+  },
+  {
+    src: "/slides/pessegos.png",
     title: "A Qualidade que Você Merece",
     subtitle: "Frutas frescas e selecionadas para você",
   },

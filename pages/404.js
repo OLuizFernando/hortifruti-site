@@ -7,7 +7,7 @@ function Custom404() {
   return (
     <>
       <Head>
-        <title>Página não encontrada - Mensageira Frutas</title>
+        <title>Página não encontrada - Marfruti</title>
       </Head>
       <Navbar />
       <div className="flex justify-center items-center h-dvh bg-gradient-to-br from-neutral-100 to-neutral-300">

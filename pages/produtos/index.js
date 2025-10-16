@@ -11,7 +11,7 @@ function Produtos() {
   return (
     <>
       <Head>
-        <title>Produtos - Mensageira Frutas</title>
+        <title>Produtos - Marfruti</title>
       </Head>
       <Navbar />
       <StaticBanner

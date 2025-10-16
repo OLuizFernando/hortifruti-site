@@ -45,74 +45,164 @@
   },
   {
     "id": 4,
-    "imgSrc": "/outros/exemplo.png",
-    "bannerSrc": "/outros/exemplo.png",
-    "name": "Exemplo",
-    "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-    "paises": []
+    "imgSrc": "/frutas/kiwi_hayward.png",
+    "bannerSrc": "/slides/kiwis.png",
+    "name": "Kiwi Hayward",
+    "slug": "kiwi-hayward",
+    "text": "Com casca marrom e peluda e polpa verde vibrante com sementes pretas, o Kiwi Hayward combina doçura e leve acidez. É refrescante, rico em vitamina C, fibras e antioxidantes.",
+    "paises": ["china", "nova-zelandia"]
   },
   {
     "id": 5,
-    "imgSrc": "/outros/exemplo.png",
-    "bannerSrc": "/outros/exemplo.png",
-    "name": "Exemplo",
-    "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-    "paises": []
+    "imgSrc": "/frutas/uva_isis.png",
+    "bannerSrc": "/slides/uvas_roxas.png",
+    "name": "Uva Isis",
+    "slug": "uva-isis",
+    "text": "Uva sem sementes de casca vermelha intensa e polpa firme e crocante. Desenvolvida pela Embrapa, tem sabor doce e ótima durabilidade pós-colheita. Ideal para consumo in natura.",
+    "paises": ["brasil"]
   },
   {
     "id": 6,
-    "imgSrc": "/outros/exemplo.png",
-    "bannerSrc": "/outros/exemplo.png",
-    "name": "Exemplo",
-    "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-    "paises": []
+    "imgSrc": "/frutas/uva_vitoria.png",
+    "bannerSrc": "/slides/uvas_roxas.png",
+    "name": "Uva Vitória",
+    "slug": "uva-vitoria",
+    "text": "Variedade brasileira sem sementes, de casca preta e sabor levemente floral. Polpa crocante, excelente adaptação ao clima tropical e alta resistência a doenças.",
+    "paises": ["brasil"]
   },
   {
     "id": 7,
-    "imgSrc": "/outros/exemplo.png",
-    "bannerSrc": "/outros/exemplo.png",
-    "name": "Exemplo",
-    "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-    "paises": []
+    "imgSrc": "/frutas/uva_thompson.png",
+    "bannerSrc": "/slides/uvas_verdes.png",
+    "name": "Uva Thompson",
+    "slug": "uva-thompson",
+    "text": "Uva verde e sem sementes, de sabor suave e adocicado. Amplamente utilizada para consumo fresco, passas, sucos e vinhos brancos leves.",
+    "paises": ["estados-unidos"]
   },
   {
     "id": 8,
-    "imgSrc": "/outros/exemplo.png",
-    "bannerSrc": "/outros/exemplo.png",
-    "name": "Exemplo",
-    "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-    "paises": []
+    "imgSrc": "/frutas/uva_italia.png",
+    "bannerSrc": "/slides/uvas_verdes.png",
+    "name": "Uva Itália",
+    "slug": "uva-italia",
+    "text": "Tradicional variedade de uva verde com sementes, polpa firme e sabor doce com aroma característico. Muito popular no Brasil para consumo in natura.",
+    "paises": ["italia", "brasil"]
   },
   {
     "id": 9,
-    "imgSrc": "/outros/exemplo.png",
-    "bannerSrc": "/outros/exemplo.png",
-    "name": "Exemplo",
-    "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-    "paises": []
+    "imgSrc": "/frutas/uva_red_globe.png",
+    "bannerSrc": "/slides/uvas_roxas.png",
+    "name": "Uva Red Globe",
+    "slug": "uva-red-globe",
+    "text": "Uva de grande porte, casca vermelha arroxeada e polpa firme com sementes. Sabor adocicado e excelente resistência, ideal para exportação.",
+    "paises": ["estados-unidos"]
   },
   {
     "id": 10,
-    "imgSrc": "/outros/exemplo.png",
-    "bannerSrc": "/outros/exemplo.png",
-    "name": "Exemplo",
-    "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-    "paises": []
+    "imgSrc": "/frutas/nectarina.png",
+    "bannerSrc": "/slides/pessegos.png",
+    "name": "Nectarina",
+    "slug": "nectarina",
+    "text": "Com casca lisa e brilhante e polpa doce e levemente ácida, a Nectarina é aromática e ideal tanto para consumo fresco quanto em receitas culinárias.",
+    "paises": ["china"]
   },
   {
     "id": 11,
-    "imgSrc": "/outros/exemplo.png",
-    "bannerSrc": "/outros/exemplo.png",
-    "name": "Exemplo",
-    "slug": "exemplo",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
-    "paises": []
+    "imgSrc": "/frutas/pessego.png",
+    "bannerSrc": "/slides/pessegos.png",
+    "name": "Pêssego",
+    "slug": "pessego",
+    "text": "Com casca aveludada e polpa suculenta, o Pêssego tem sabor doce com acidez equilibrada. Muito apreciado fresco, em doces, caldas e sucos.",
+    "paises": ["china"]
+  },
+  {
+    "id": 12,
+    "imgSrc": "/frutas/ameixa.png",
+    "bannerSrc": "/slides/pessegos_e_ameixas_caixa.png",
+    "name": "Ameixa",
+    "slug": "ameixa",
+    "text": "Fruta suculenta e doce, de casca lisa e fina que varia do vermelho ao roxo. Rica em fibras e muito usada fresca, em geleias ou doces.",
+    "paises": ["europa"]
+  },
+  {
+    "id": 13,
+    "imgSrc": "/frutas/pera_packhams_triumph.png",
+    "bannerSrc": "/slides/peras_verdes.png",
+    "name": "Pera Packham’s Triumph",
+    "slug": "pera-packhams-triumph",
+    "text": "Pera de formato irregular e casca verde-clara que pode amarelar com o tempo. Polpa branca, suculenta e doce, ideal para consumo direto.",
+    "paises": ["australia"]
+  },
+  {
+    "id": 14,
+    "imgSrc": "/frutas/pera_portuguesa.png",
+    "bannerSrc": "/slides/peras_amarelas.png",
+    "name": "Pera Portuguesa",
+    "slug": "pera-portuguesa",
+    "text": "Pera tradicional de Portugal, com casca fina e polpa firme e crocante. Sabor doce com leve acidez, ideal para exportação.",
+    "paises": ["portugal"]
+  },
+  {
+    "id": 15,
+    "imgSrc": "/frutas/laranja.png",
+    "bannerSrc": "/slides/laranjas.png",
+    "name": "Laranja",
+    "slug": "laranja",
+    "text": "Fruta cítrica de casca alaranjada e polpa suculenta e rica em vitamina C. Consumida fresca, em sucos e na indústria alimentícia.",
+    "paises": ["china", "india"]
+  },
+  {
+    "id": 16,
+    "imgSrc": "/frutas/maca_pink_lady.png",
+    "bannerSrc": "/slides/macas.png",
+    "name": "Maçã Pink Lady",
+    "slug": "maca-pink-lady",
+    "text": "Maçã de casca rosada e polpa crocante, com sabor doce e leve acidez. De alta durabilidade, é ideal para saladas e sobremesas.",
+    "paises": ["australia"]
+  },
+  {
+    "id": 17,
+    "imgSrc": "/frutas/melancia_baby.png",
+    "bannerSrc": "/slides/melancias.png",
+    "name": "Melancia Baby",
+    "slug": "melancia-baby",
+    "text": "Menor que a melancia tradicional, tem casca fina, polpa vermelha muito doce e poucas sementes. Ideal para consumo familiar.",
+    "paises": ["brasil"]
+  },
+  {
+    "id": 18,
+    "imgSrc": "/frutas/goiaba.png",
+    "bannerSrc": "/slides/goiabas.png",
+    "name": "Goiaba",
+    "slug": "goiaba",
+    "text": "Fruta tropical de casca verde ou amarela e polpa rosada ou branca. Doce, aromática e rica em vitamina C e fibras, usada fresca, em sucos e doces.",
+    "paises": ["brasil"]
+  },
+  {
+    "id": 19,
+    "imgSrc": "/frutas/maca_granny_smith.png",
+    "bannerSrc": "/slides/macas_verdes.png",
+    "name": "Maçã Granny Smith",
+    "slug": "maca-granny-smith",
+    "text": "De casca verde-brilhante e sabor ácido, a Maçã Granny Smith é crocante e firme, ideal para consumo fresco, saladas e sobremesas assadas.",
+    "paises": ["australia"]
+  },
+  {
+    "id": 20,
+    "imgSrc": "/frutas/limao.png",
+    "bannerSrc": "/slides/limoes.png",
+    "name": "Limão",
+    "slug": "limao",
+    "text": "Fruta cítrica de casca amarela ou verde e polpa suculenta e ácida. Rica em vitamina C e antioxidantes, usada em sucos, temperos e sobremesas.",
+    "paises": ["india", "brasil"]
+  },
+  {
+    "id": 21,
+    "imgSrc": "/frutas/roma.png",
+    "bannerSrc": "/slides/romas.png",
+    "name": "Romã",
+    "slug": "roma",
+    "text": "Fruta de casca dura e coloração avermelhada, com sementes envoltas por polpa rubi doce ou levemente adstringente. Rica em antioxidantes e tradicionalmente associada à saúde e prosperidade.",
+    "paises": ["ira", "india"]
   }
 ]

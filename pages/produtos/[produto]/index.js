@@ -15,7 +15,7 @@ export default function ProdutoPage() {
     return (
       <>
         <Head>
-          <title>Carregando - Mensageira Frutas</title>
+          <title>Carregando - Marfruti</title>
         </Head>
         <Navbar />
         <div className="flex justify-center items-center h-dvh">
@@ -31,7 +31,7 @@ export default function ProdutoPage() {
     return (
       <>
         <Head>
-          <title>Produto não encontrado - Mensageira Frutas</title>
+          <title>Produto não encontrado - Marfruti</title>
         </Head>
         <Navbar />
         <div className="flex justify-center items-center h-dvh">
@@ -44,13 +44,13 @@ export default function ProdutoPage() {
   return (
     <>
       <Head>
-        <title>{product.name} - Mensageira Frutas</title>
+        <title>{product.name} - Marfruti</title>
       </Head>
       <Navbar />
       <StaticBanner
         src={product.bannerSrc}
         title={product.name}
-        subtitle={`Conheça mais sobre nossa ${product.name}`}
+        subtitle={`Conheça mais sobre ${product.slug === "limao" ? "nosso" : "nossa"} ${product.name}`}
       />
       <div className="flex items-center justify-center bg-gradient-to-br from-neutral-100 to-neutral-300 py-15 md:py-20 px-7 md:px-20 lg:px-30 xl:px-50">
         <div className="flex flex-col lg:flex-row items-center justify-center rounded-lg shadow-2xl bg-white py-0 lg:py-5 px-7 md:px-10">

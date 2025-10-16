@@ -19,22 +19,32 @@ function Footer() {
             </a>
             <a
               target="_blank"
-              href="https://www.instagram.com/mensageirafrutas/"
+              href="https://wa.me/555184482268"
+              className="bg-[#26530E] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 rounded-lg px-4 py-2 mb-3 md:mb-auto me-auto md:me-7 transition-all duration-200 ease-in-out"
+            >
+              <img
+                width="25"
+                src="https://img.icons8.com/?id=85088&format=png&color=ffffff"
+              />
+            </a>
+            <a
+              target="_blank"
+              href="https://wa.me/555496681971"
+              className="bg-[#26530E] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 rounded-lg px-4 py-2 mb-3 md:mb-auto me-auto md:me-7 transition-all duration-200 ease-in-out"
+            >
+              <img
+                width="25"
+                src="https://img.icons8.com/?id=85088&format=png&color=ffffff"
+              />
+            </a>
+            <a
+              target="_blank"
+              href="https://www.instagram.com/marfruticeasa/"
               className="bg-[#26530E] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 rounded-lg px-4 py-2 mb-3 md:mb-auto me-auto md:me-7 transition-all duration-200 ease-in-out"
             >
               <img
                 width="25"
                 src="https://img.icons8.com/?id=48841&format=png&color=ffffff"
-              />
-            </a>
-            <a
-              target="_blank"
-              href="https://www.facebook.com/mensageira.frutas"
-              className=" bg-[#26530E] hover:bg-[#183409] focus:ring-4 focus:outline-none focus:ring-[#26530E]/40 rounded-lg px-4 py-2 transition-all duration-200 ease-in-out"
-            >
-              <img
-                width="25"
-                src="https://img.icons8.com/?id=pZ9xZYiinken&format=png&color=ffffff"
               />
             </a>
           </div>
@@ -80,26 +90,29 @@ function Footer() {
                 <ul className="text-gray-500 font-medium">
                   <li className="mb-4">
                     <a href="https://wa.me/5511966433031" target="_blank">
-                      Telefone:{" "}
+                      Rodrigo:{" "}
                       <span className="hover:underline">(11) 9 6643-3031</span>
                     </a>
                   </li>
                   <li className="mb-4">
-                    <a
-                      href="#" // MUDAR LINK E LABEL
-                      target="_blank"
-                    >
-                      Facebook:{" "}
-                      <span className="hover:underline">Marfruti</span>
+                    <a href="https://wa.me/555184482268" target="_blank">
+                      Méri:{" "}
+                      <span className="hover:underline">(51) 9 8448-2268</span>
+                    </a>
+                  </li>
+                  <li className="mb-4">
+                    <a href="https://wa.me/555496681971" target="_blank">
+                      Itamar:{" "}
+                      <span className="hover:underline">(54) 9 9668-1971</span>
                     </a>
                   </li>
                   <li className="mb-4">
                     <a
-                      href="#" // MUDAR LINK E LABEL
+                      href="https://www.instagram.com/marfruticeasa"
                       target="_blank"
                     >
                       Instagram:{" "}
-                      <span className="hover:underline">@marfrutifrutas</span>
+                      <span className="hover:underline">@marfruticeasa</span>
                     </a>
                   </li>
                   <li>
