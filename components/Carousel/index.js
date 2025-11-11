@@ -2,35 +2,25 @@ import { useState, useEffect } from "react";
 
 const carouselData = [
   {
-    src: "/slides/peras_amarelas.png",
+    src: "/slides/1.png",
     title: "Marfruti",
     subtitle: "Qualidade que inspira, frescor que conecta.",
   },
   {
-    src: "/slides/pessegos.png",
+    src: "/slides/2.png",
     title: "A Qualidade que Você Merece",
     subtitle: "Frutas frescas e selecionadas para você",
   },
   {
-    src: "/slides/macas_verdes.png",
-    title: "Importar Qualidade é o que Importa",
-    subtitle:
-      "Frutas selecionadas de vários países, com alto padrão de qualidade",
-  },
-  {
-    src: "/slides/pessegos_e_ameixas_prato.png",
+    src: "/slides/4.png",
     title: "Tradição e Confiança no Que Fazemos",
     subtitle: "Garantindo sabor e qualidade em cada produto",
   },
   {
-    src: "/slides/peras_verdes.png",
-    title: "O Melhor da Natureza",
-    subtitle: "Sabor, frescor e qualidade em cada escolha",
-  },
-  {
-    src: "/slides/pessegos_e_ameixas_caixa.png",
-    title: "Sabor e Saúde",
-    subtitle: "Frutas selecionadas com carinho para você",
+    src: "/slides/3.png",
+    title: "Importar Qualidade é o que Importa",
+    subtitle:
+      "Frutas selecionadas de vários países, com alto padrão de qualidade",
   },
 ];
 
